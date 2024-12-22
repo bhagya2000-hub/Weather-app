@@ -27,4 +27,3 @@ A lightweight and responsive weather application built with **HTML**, **CSS**, a
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/weather-app.git
-# Weather-app
