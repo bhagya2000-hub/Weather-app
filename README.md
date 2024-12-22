@@ -35,5 +35,7 @@ A lightweight and responsive weather application built with **HTML**, **CSS**, a
 
 ![weather home](https://github.com/user-attachments/assets/04079f4c-94bd-4468-beb7-68cee2a011d2)
 
+![Display](https://github.com/user-attachments/assets/c33a396f-7918-42ae-b76e-9d4fb2601fdb)
+
    
    git clone https://github.com/your-username/weather-app.git
