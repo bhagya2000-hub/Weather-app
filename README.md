@@ -29,10 +29,11 @@ A lightweight and responsive weather application built with **HTML**, **CSS**, a
    ```bash
 
 
-   - Screenshots![Display](https://github.com/user-attachments/assets/b780f7b2-44c6-4bb9-af1c-e016f09d5f7f)
+   - Screenshots
+   ![Display](https://github.com/user-attachments/assets/b780f7b2-44c6-4bb9-af1c-e016f09d5f7f)
    
 
-![weather home](https://github.com/user-attachments/assets/8a29482c-6fc3-4233-aeb2-d096ceb189bb)
+![weather home](https://github.com/user-attachments/assets/04079f4c-94bd-4468-beb7-68cee2a011d2)
 
    
    git clone https://github.com/your-username/weather-app.git
